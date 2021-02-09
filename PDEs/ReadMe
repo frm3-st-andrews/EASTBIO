@@ -1,1 +1,7 @@
-Folder for PDE codes
+Folder for PDE codes:
+
+The Turing_Code_Instructions.pdf file gives you step by step instructions on how to run the code.
+
+The Turing_Pattern_App.mlappinstall will allow you install the MATLAB app.
+
+The Turing_full_code.m will allow you to run the full code on MATLAB.
